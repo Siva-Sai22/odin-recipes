@@ -16,11 +16,12 @@ h1 {
     border: 2px solid red;
     padding: 5px;
     margin-bottom: 8px;
+    display: block;
 }
 
 .recipe-card {
     background-color: white;
-    width: 800px;
+    width: 720px;
     height: 229px;
     border: 2px solid darkred;
     margin: 0px auto;
@@ -28,7 +29,7 @@ h1 {
 
 .recipe-content {
     display: inline-block;
-    width: 500px;
+    width: 480px;
     vertical-align: top;
     padding: 4px;
 }
@@ -38,7 +39,7 @@ img {
 } 
 
 .recipe-content h2 {
-    margin: 20px auto;
+    margin: 10px auto;
 }
 
 .recipe-content a {
